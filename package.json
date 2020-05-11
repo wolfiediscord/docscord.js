@@ -1,0 +1,28 @@
+{
+  "name": "docscord.js",
+  "version": "0.0.0",
+  "description": "A docs package for discord.js written in JavaScript!",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./example/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inex07/docscord.js.git"
+  },
+  "keywords": [
+    "discord",
+    "djs-docs",
+    "discord-docs",
+    "docscord"
+  ],
+  "author": "INEX07",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/inex07/docscord.js/issues"
+  },
+  "homepage": "https://github.com/inex07/docscord.js#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
