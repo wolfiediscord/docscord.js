@@ -6,7 +6,7 @@ A docs package for discord.js written in JavaScript!
 [![NPM](https://nodei.co/npm/docscord.js.png)](https://nodei.co/npm/docscord.js/)
 
 ## Installing
-`npm i --save docscord.js`
+`npm i --save wolfiediscord/docscord.js`
 
 # Available Branches
 - Stable
